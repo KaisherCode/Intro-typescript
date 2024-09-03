@@ -11,5 +11,8 @@
   "description": "type script project",
   "devDependencies": {
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0"
   }
 }
