@@ -8,21 +8,21 @@
 
 3. Configurando nuestro proyecto
 
-  a. Crear carpeta del proyecto `ts-project`.
+  - Crear carpeta del proyecto `ts-project`.
 
-  b.  Crear el archivo `.gitignore` para ello utilizamos el sitio web de `https://gitignore.io`
+  -  Crear el archivo `.gitignore` para ello utilizamos el sitio web de `https://gitignore.io`
 
-  c. Creamos el archivo `.aditorconfig` y además será ncecsario instalar el plugins `editor config for VS Code`.
+  - Creamos el archivo `.aditorconfig` y además será ncecsario instalar el plugins `editor config for VS Code`.
 
-  d. Inicializamos node `npm init -y`
+  - Inicializamos node `npm init -y`
 
-  e. Instalar `typescript` con el comando `npm intall typescript`
+  - Instalar `typescript` con el comando `npm intall typescript`
 
-  f. Para ver la versión de typescript instalado ejecutamos `npx tsc --version` <!--// Version 5.5.4 //-->
+  - Para ver la versión de typescript instalado ejecutamos `npx tsc --version` <!--// Version 5.5.4 //-->
 
-  g. Inicializamos git `git init`
+  - Inicializamos git `git init`
 
-  h. Además opcional renombrar nombre de la rama principal `master` a `main` con el comando `git branch -M main`.
+  - Además opcional renombrar nombre de la rama principal `master` a `main` con el comando `git branch -M main`.
 
 4. Atrapando bugs
 
